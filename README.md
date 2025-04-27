@@ -6,7 +6,7 @@ Easily display stylish text on screen, perfect for server announcements, welcome
 Customize the text, colors, and styles to match your server’s vibe.
 Lightweight, easy to install, and works with any framework!
 
-✨ **Features:**
+## ✨ **Features:**
 
 * Fully customizable text and colors
 * Clean and modern design
@@ -14,7 +14,19 @@ Lightweight, easy to install, and works with any framework!
 * Perfect for announcements or tips
 * Simple configuration
 
-**Support:**
+## 💾 Installation
+
+1. Download the latest release from the [GitHub repository](https://github.com/Nico-Development1/nd-textbanner).
+2. Extract the downloaded file and rename the folder to `nd-textbanner`.
+3. Place the `nd-textbanner` folder into your server's `resources` directory.
+4. Add `ensure nd-textbanner` to your `server.cfg` to ensure the resource starts with your server.
+
+
+## 📖 Dependencies
+- None
+
+
+## Suport:
 If you require support head over to my discord and open a general support ticket and someone will assist you. 
 
 https://discord.gg/9Yz2eBypWF 
