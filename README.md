@@ -26,7 +26,7 @@ Lightweight, easy to install, and works with any framework!
 - None
 
 
-## Suport:
+## Support:
 If you require support head over to my discord and open a general support ticket and someone will assist you. 
 
 https://discord.gg/9Yz2eBypWF 
