@@ -16,4 +16,4 @@ Lightweight, easy to install, and works with any framework!
 
 **Preview:**
 
-![image|241x88](upload://rr0UyjuK0tXWADNExW8QdXz7RzU.png)
+https://imgur.com/a/dbywvDu
